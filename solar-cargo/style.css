@@ -80,6 +80,10 @@ th {
 .form-container {
     flex: 1;
     min-width: 300px;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    padding: 20px;
+    border-radius: 8px;
 }
 
 /* Forma */
@@ -94,4 +98,11 @@ th {
 .form-container button {
     padding: 8px;
     width: 100%;
+}
+
+section {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    padding: 20px;
+    border-radius: 8px;
 }
